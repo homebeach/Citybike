@@ -8,13 +8,13 @@ Database with citybike and stations dataset is needed for this project. Backend 
 
 To set up database and data:
 
--install MySQL8
+-install MySQL8 to default port 3306
 -create database and tables using create_citybike_database.sql
 -import data using import_citybike_data.sql
 
 # Citybike-backend
 
-Citybike-backend is a Spring and Maven project. Java version 17 and Maven is needed to run the project. You can run the project from repository with following commands:
+Citybike-backend is a Spring and Maven project. Java version 17 and Maven is needed to run the project. You need to set the database settings in /src/main/resources/application.properties. You can run the project from repository with following commands:
 
 Linux/Unix
 ./mvnw spring-boot:run
