@@ -8,9 +8,9 @@ Database with citybike and stations dataset is needed for this project. Backend 
 
 To set up database and data:
 
--install MySQL8 to default port 3306<br>
--create database and tables using create_citybike_database.sql<br>
--import data using import_citybike_data.sql<br>
+-Install MySQL8 to default port 3306.<br>
+-Create database and tables using create_citybike_database.sql.<br>
+-Import data using import_citybike_data.sql.<br>
 
 # Citybike-backend
 
