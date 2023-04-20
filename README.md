@@ -32,26 +32,26 @@ npm start
 
 # Running and using the app
 
--install database and data
--run Citybike-backend
--run Citybike-frontend
+-Install database and data.<br>
+-Run Citybike-backend.<br>
+-Run Citybike-frontend.<br>
 
 Frontend should be running in http://localhost:3000/.
 
 You have two options:
-  - Journeys
+  - Journeys<br>
     This view shows Journey data in table. 
    
-    -You can choose language and it will affect Station names.
-    -You filter departures based on end and start times.
-    -You filter stations based on name.
+    -You can choose language and it will affect Station names.<br>
+    -You filter departures based on end and start times.<br>
+    -You filter stations based on name.<br>
 
   - Stations
     This view shows Station data in table. 
    
-    -You can choose language and it will affect Station names and addresses.
-    -You filter stations based on name and address.
-    -You can click station id for single station view.
+    -You can choose language and it will affect Station names and addresses.<br>
+    -You filter stations based on name and address.<br>
+    -You can click station id for single station view.<br>
 
     	Single station view
         
