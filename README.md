@@ -46,7 +46,7 @@ You have two options:
     -You filter departures based on end and start times.<br>
     -You filter stations based on name.<br>
 
-  - Stations
+  - Stations<br>
     This view shows Station data in table. 
    
     -You can choose language and it will affect Station names and addresses.<br>
