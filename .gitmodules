@@ -3,4 +3,5 @@
 	url = https://github.com/homebeach/Citybike-backend.git
 [submodule "Citybike-frontend"]
 	path = Citybike-frontend
+	branch = master
 	url = https://github.com/homebeach/Citybike-frontend.git
