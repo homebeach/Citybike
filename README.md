@@ -55,7 +55,7 @@ You have two options:
     -You filter stations based on name and address.<br>
     -You can click station id for single station view.<br>
 
-    	Single station view
+    	-Single station view
         
         -You can choose language as in previous views
         -You can see departures and returns counts and average distances
