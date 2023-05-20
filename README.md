@@ -2,7 +2,7 @@
 
 This repository contains Citybike web application. The application backend fetches Citybike data from database and frontend can be used to browse the data. The repository contains two subrepositories: Citybike-backend and Citybike-frontend.
 
-If you want to just try this application, you find it hosted in Azure: https://citybike-frontend.azurewebsites.net/.
+Unfortunately my Azure credits ended, but the project used to be hosted in Azure: https://citybike-frontend.azurewebsites.net/.
 
 # Data and database
 
